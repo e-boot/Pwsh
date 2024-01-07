@@ -1,5 +1,6 @@
-# Powershell setup 
+# My Powershell 
 
+![pwsh-img](pwsh-sc.png)
 
 Tools i use:
 
@@ -7,7 +8,7 @@ Tools i use:
 
 - [Oh my posh](https://ohmyposh.dev/) : a prompt theme engine shell for Powershell 
 
-- [z](https://github.com/jethrokuan/z):z tracks the directories you visit. With a combination of frequency and recency, it enables you to jump to the directory in mind.
+- [z directory jump](https://github.com/jethrokuan/z): tracks the directories you visit. With a combination of frequency and recency, it enables you to jump to the directory in mind.
 
 - [PSReadline](https://github.com/PowerShell/PSReadLine):
     - Syntax coloring
